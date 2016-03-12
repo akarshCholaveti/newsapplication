@@ -1,0 +1,5 @@
+C:\Users\Akarsh\documents\visual studio 2013\Projects\NewsApplication\NewsApplication\bin\NewsApplication.dll.config
+C:\Users\Akarsh\documents\visual studio 2013\Projects\NewsApplication\NewsApplication\bin\NewsApplication.dll
+C:\Users\Akarsh\documents\visual studio 2013\Projects\NewsApplication\NewsApplication\bin\NewsApplication.pdb
+C:\Users\Akarsh\documents\visual studio 2013\Projects\NewsApplication\NewsApplication\obj\Release\NewsApplication.dll
+C:\Users\Akarsh\documents\visual studio 2013\Projects\NewsApplication\NewsApplication\obj\Release\NewsApplication.pdb

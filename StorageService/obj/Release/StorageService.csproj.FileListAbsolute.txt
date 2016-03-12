@@ -1,0 +1,5 @@
+C:\Users\Akarsh\documents\visual studio 2013\Projects\NewsApplication\StorageService\bin\StorageService.dll.config
+C:\Users\Akarsh\documents\visual studio 2013\Projects\NewsApplication\StorageService\bin\StorageService.dll
+C:\Users\Akarsh\documents\visual studio 2013\Projects\NewsApplication\StorageService\bin\StorageService.pdb
+C:\Users\Akarsh\documents\visual studio 2013\Projects\NewsApplication\StorageService\obj\Release\StorageService.dll
+C:\Users\Akarsh\documents\visual studio 2013\Projects\NewsApplication\StorageService\obj\Release\StorageService.pdb
